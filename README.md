@@ -10,7 +10,7 @@ Image Processing Toolbox
 Optimization Toolbox 
 2. Professional Deblurring Software
 This code integrates external professional deblurring software for additional processing. Please download the full version of the deblurring software from the following link:
-
+https://www.cse.cuhk.edu.hk/~leojia/deblurring.htm
 Professional Deblurring Software
 After installation, ensure the software is properly licensed and functioning.
 

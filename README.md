@@ -18,8 +18,8 @@ Professional Deblurring Software
 
 After installation, ensure the software is properly licensed and functioning.
 
-4. AutoIt v3 (for Windows)
-5. 
+3. AutoIt v3 (for Windows)
+
 AutoIt v3 is required to automate certain processes in the deblurring pipeline. Download and install AutoIt from the official link:
 
 
@@ -29,8 +29,7 @@ Place your input images in the .\Images\ folder.
 Ensure the Results folder exists in the project directory. This is where processed images will be stored.
 2. Run the Code
 Open MATLAB and navigate to the directory containing the code files.
-Run the main script (Demo.m) using the command:
-processImage
+Run the main script (Demo.m)
 The script will:
 Process each image in the .\Images\ folder.
 Estimate saturated regions.

@@ -8,13 +8,18 @@ Ensure you have MATLAB installed on your machine with the following toolboxes:
 
 Image Processing Toolbox
 Optimization Toolbox 
+
 2. Professional Deblurring Software
 This code integrates external professional deblurring software for additional processing. Please download the full version of the deblurring software from the following link:
+
 https://www.cse.cuhk.edu.hk/~leojia/deblurring.htm
+
 Professional Deblurring Software
+
 After installation, ensure the software is properly licensed and functioning.
 
-3. AutoIt v3 (for Windows)
+4. AutoIt v3 (for Windows)
+5. 
 AutoIt v3 is required to automate certain processes in the deblurring pipeline. Download and install AutoIt from the official link:
 
 

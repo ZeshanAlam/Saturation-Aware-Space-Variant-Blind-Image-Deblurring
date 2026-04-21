@@ -1,6 +1,8 @@
 # Saturation-Aware-Space-Variant-Blind-Image-Deblurring
 README: Saturation-Aware Space-Variant Blind Image Deblurring Code
 This repository contains MATLAB code for implementing a Saturation-Aware Space-Variant Blind Image Deblurring algorithm. The approach involves isolating saturated regions, estimating true radiance, and recovering images through space-variant deblurring techniques.
+Link to Paper https://ieeexplore.ieee.org/document/11475880
+https://arxiv.org/pdf/2604.16200
 
 Test dataset Available at https://drive.google.com/file/d/1OUuooHm2gHvuB-AdndyJSikVn1tv26_5/view?usp=sharing
 
